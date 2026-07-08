@@ -1,4 +1,3 @@
--  Hi, I’m @SIEGE101
 -  I’m interested in coding and design
 -  I’m currently learning cyber security 
 -  I’m looking to collaborate on various company 
